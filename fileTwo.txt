@@ -1,0 +1,10 @@
+/*
+Theme Name: 	paulfreeman
+Theme URI:  	http://www.paulfreeman.net
+Description: 	Custom Theme for Paul Freeman
+Author: 		Kevin Boger
+Author URI:		http://www.paulfreeman.net
+Template: 		enfold
+Version:		0.1.0
+*/
+
